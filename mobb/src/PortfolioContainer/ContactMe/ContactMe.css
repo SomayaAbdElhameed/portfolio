@@ -1,0 +1,133 @@
+.backkg{
+    background-color: #24263b!important;
+    border-radius: 10px;
+    margin-top: 50px;
+   padding: 30px;
+   padding-top: 80px;
+   box-shadow: 5px  5px 8px  8px #b1b1b1;
+   margin-bottom: 30px;
+}
+
+
+.formtwo{
+    background-color:#e3e3e4;
+    padding: 20px;
+    width: 200px;
+border-radius: 10px;}
+
+.text-pp{
+    text-align: left;
+    color: #8295a3;
+    letter-spacing: 4px;
+    font-size: 19px;
+margin-top: 100px;  
+  font-family: '\1F468\200D\1F467\200D\1F467';
+}
+.form-label{
+    font-family: 'content'!important; 
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+.titlep{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 29px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-left:auto ;
+    margin-right: auto;
+   
+}
+@media only screen and (max-width: 376px){
+
+.titlep{
+    font-size: 27px;
+
+}}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #1d1e2c;
+    background-color: #d5d5d6!important;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.35rem!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-ww:hover{
+ border: 2px solid  #fd6131ed;  ;
+}
+.hi{
+margin-left: -15px;
+margin-top: 20px;
+}
+
+.backkg img{
+    width: 500px;
+    height: 170px;
+    border-radius: 5px;
+    box-shadow: 10px  10px  10px  10px #212438;
+    }
+  
+ @media only screen and (max-width :767.98px) { 
+    .backkg img{
+        width: 450px;
+        height: 150px;
+        margin-bottom: 20px;
+        }}
+        @media only screen and (max-width :500px) {
+            .backkg img{
+                width: 345px;
+                height: 135px;
+                margin-bottom: 20px;
+                }}
+ @media only screen and (max-width: 415px){
+    .backkg img{
+        width: 325px;
+        height: 100px;
+        margin-bottom: 20px;
+        }
+ }
+ @media only screen and (max-width :395px){
+    .backkg img{
+        width: 300px;
+        height: 100px;
+        margin-bottom: 20px;
+        }
+ }
+ @media only screen and (max-width :384px){
+    .backkg img{
+        width: 300px;
+        height: 100px;
+        margin-bottom: 20px;
+        }
+ }
+
+ @media only screen and (max-width: 376px){
+    .backkg img{
+        width:290px;
+        height: 95px;
+        margin-bottom: 20px;
+        }
+ }
+.formtwo{
+    background-color:#e3e3e4;
+    padding: 20px;
+    width: 500px;
+border-radius: 10px;
+}
+@media only screen and (max-width: 376px) {
+    .social-icons {
+      margin-top: 40px;
+      margin-left:10px;
+    }
+  }
+  .social-icons a i {
+    margin: 0 2px;
+  
+}
